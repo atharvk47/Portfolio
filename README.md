@@ -1,12 +1,14 @@
-<p align="center">Welcome, people!</p>
+<h1 align="center">Welcome, people!</h1>
 
 ###
 
-<p align="center">Hi! I am Atharv Kurlapkar.</p>
+<h3 align="center">Hi! I am Atharv Kurlapkar.</h3>
 
 ###
 
-<p align="left">Loves to apply technology  with gusto in real life</p>
+## About Me:
+
+<p align="left">Loves to apply technology with gusto in real life</p>
 
 ###
 
