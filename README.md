@@ -8,11 +8,11 @@
 
 ## About Me:
 
-<p align="left">Loves to apply technology with gusto in real life</p>
+<p align="left"> * Loves to apply technology with gusto in real life</p>
 
 ###
 
-<p align="left">Currently exceling the development skills in Blockchain and MERN</p>
+<p align="left"> * Currently exceling the development skills in Blockchain and MERN</p>
 
 ###
 
